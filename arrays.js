@@ -11,4 +11,4 @@
 // var tomatoSauceIngredients = ['tomato', 'garlic', 'olive oil',
 //                         'basil', 'oregano']
 var chocolateBars = ['snickers', 'hundred grand', 'kitkat', 'skittles']
-console.log(chocolateBars)
+
